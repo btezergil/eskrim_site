@@ -1,10 +1,19 @@
 class StaticPagesController < ApplicationController
-  def home
+  def anasayfa
   end
 
-  def about
+  def eskrim
   end
 
-  def contact
+  def antrenmanlar
+  end
+
+  def takimimiz
+  end
+
+  def duyurular
+  end
+
+  def iletisim
   end
 end
